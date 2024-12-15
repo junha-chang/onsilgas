@@ -1886,3 +1886,12 @@
   align-items: center;
   justify-content: center;
 }
+.div {
+  width: 100vw;
+  height: auto;
+  position: absolute;
+  left: 1930px;
+  top: 1025px;
+  overflow: hidden;
+  object-fit: cover;
+}
